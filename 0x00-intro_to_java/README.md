@@ -1,1 +1,1 @@
-# this is first week dir. 
+# this is first week directory
