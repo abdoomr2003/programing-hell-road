@@ -1,5 +1,4 @@
 import java.util.*;
-import java.io.*;
 
 public class Java_Datatypes {
     public static void main(String []argh)
